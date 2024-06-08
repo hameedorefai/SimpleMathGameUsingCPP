@@ -6,4 +6,4 @@ The game generates random numbers and arithmetic operations, and players must pr
 
 At the end of the game, players receive feedback on their performance, including the number of correct and incorrect answers.
 
-The program focuses on functional programming principles.**Last updated on March 10, 2023.**
+The program focuses on functional programming principles. **Last updated on March 10, 2023.**
