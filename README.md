@@ -1,6 +1,7 @@
 # Math Quiz Game
 
 This project is a simple console-based math quiz game implemented in C++. It allows the user to select the difficulty level and type of mathematical operations for the quiz. The game supports addition, subtraction, multiplication, and division, as well as mixed operations.
+The program focuses on functional programming principles. **Last updated on March 10, 2023.**
 
 ## Features
 
