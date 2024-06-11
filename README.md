@@ -99,7 +99,4 @@ This project is a simple console-based math quiz game implemented in C++. It all
 - `ReadPlayerAnswer`: Reads the player's answer from input.
 - `DisplayTheQuestion`: Displays the current question to the player.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
