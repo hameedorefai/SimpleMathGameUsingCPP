@@ -106,6 +106,3 @@ This project is a simple console-based math quiz game implemented in C++. It all
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-```
-
-This `README.md` file provides a detailed overview of your project, including instructions on how to compile and run the program, the structure of the game, the main functions, and helper functions used throughout the code.
